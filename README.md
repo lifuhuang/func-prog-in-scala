@@ -1,2 +1,2 @@
 # func-prog-in-scala
-Collection of all code for the course Functional Programming in Scala from EPFL.
+My solutions to all assignments in the course series Functional Programming in Scala from EPFL.
